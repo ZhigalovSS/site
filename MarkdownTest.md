@@ -30,4 +30,6 @@ graph LR
   mermaid.initialize({ startOnLoad: true });
 </script>
 
-{{ page.mermaid }}
+{% if page.mermaid %}
+  {% include mermaid.html %}
+{% endif %}
