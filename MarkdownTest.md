@@ -27,5 +27,5 @@ graph LR
 ```
 
 {% highlight javascript %}
-{% include alertmsg.html %}
+{% include post.html %}
 {% endhighlight %}
