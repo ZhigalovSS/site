@@ -6,3 +6,4 @@
 
 
 [Working With Github Pages](https://gist.github.com/magicbean/4181224)  
+[liquid](https://shopify.github.io/liquid/basics/introduction/)  
