@@ -27,5 +27,5 @@ graph LR
 ```
 
 {% if page.mermaid %}
-  {% render mermaid.html %}
+  {% include mermaid.html %}
 {% endif %}
