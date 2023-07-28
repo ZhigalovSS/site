@@ -10,3 +10,4 @@
 [jekyll](https://learntheweb.courses/topics/jekyll/)  
 [$( document ).ready()](http://learn.jquery.com/using-jquery-core/document-ready/)  
 [querySelectorAll()](https://doka.guide/js/query-selector-all/)  
+[JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)  
