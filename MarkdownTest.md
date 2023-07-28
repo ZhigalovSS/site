@@ -31,5 +31,5 @@ graph LR
 </script>
 
 {% if page.mermaid %}
-  {% include mermaid.html %}
+  {% include ./_include/mermaid.html %}
 {% endif %}
