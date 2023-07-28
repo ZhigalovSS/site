@@ -25,3 +25,5 @@ graph LR
     B-->C[Happy]
     B-->D(Sad);
 ```
+
+{% include alert_msg.js %}
