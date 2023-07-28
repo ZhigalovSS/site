@@ -26,4 +26,6 @@ graph LR
     B-->D(Sad);
 ```
 
+{% highlight javascript %}
 {% include alert_msg.js %}
+{% endhighlight %}
