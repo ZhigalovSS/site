@@ -1,5 +1,5 @@
 ### This is index.html
 
 [link](./MarkdownTest.md)  
-[head](./head.html)  
-[mermaid](mermaid.html)  
+[head](./_include/head.html)  
+[mermaid](./_include/mermaid.html)  
