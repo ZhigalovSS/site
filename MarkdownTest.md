@@ -18,7 +18,3 @@ graph LR
     B-->C[Happy]
     B-->D(Sad);
 ```
-
-{% if page.mermaid %}
-  {% include mermaid.html %}
-{% endif %}
