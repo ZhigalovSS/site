@@ -26,6 +26,6 @@ graph LR
     B-->D(Sad);
 ```
 
-{% highlight javascript %}
-{% include mermaid.html %}
-{% endhighlight %}
+{% if page.mermaid %}
+  {% include mermaid.html %}
+{% endif %}
