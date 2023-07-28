@@ -1,3 +1,7 @@
+---
+mermaid : true
+---
+
 ### Hello World!
 
 This is mermaid
