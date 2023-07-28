@@ -1,4 +1,5 @@
 ---
+layout: head
 mermaid : true
 ---
 
