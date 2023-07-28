@@ -9,3 +9,4 @@
 [liquid](https://shopify.github.io/liquid/basics/introduction/)  
 [jekyll](https://learntheweb.courses/topics/jekyll/)  
 [$( document ).ready()](http://learn.jquery.com/using-jquery-core/document-ready/)  
+[querySelectorAll()](https://doka.guide/js/query-selector-all/)  
