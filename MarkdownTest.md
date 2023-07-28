@@ -7,6 +7,8 @@ tags: [Mermaid]
 mermaid: true
 ---
 
+<mermaid>true</mermaid>
+
 ### Hello World!
 
 This is mermaid
