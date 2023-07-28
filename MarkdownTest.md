@@ -7,8 +7,6 @@ tags: [Mermaid]
 mermaid: true
 ---
 
-<mermaid>true</mermaid>
-
 ### Hello World!
 
 This is mermaid
@@ -26,5 +24,6 @@ graph LR
     B-->D(Sad);
 ```
 
-{% include post.html %}
-
+{% if page.mermaid %}
+  {% include mermaid.html %}
+{% endif %}
